@@ -9,13 +9,13 @@ export default function Navbar() {
         href="/"
         className="font-extrabold text-xl text-white hover:text-gray-300"
       >
-        Best Daraz Deals Finds
+        Daraz Finds NP
       </Link>
 
       <div className="flex items-center gap-4">
         {/* Instagram */}
         <a
-          href="https://www.instagram.com/darazdealnp"
+          href="https://www.instagram.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-pink-500 transition-colors duration-300"
@@ -25,7 +25,7 @@ export default function Navbar() {
 
         {/* TikTok (inline SVG) */}
         <a
-          href="https://www.tiktok.com/@bestdealnp"
+          href="https://www.tiktok.com/@draznp"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white transition-colors duration-300"
