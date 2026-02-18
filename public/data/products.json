@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Stylish T-Shirt",
+    "description": "Comfortable and casual t-shirt",
+    "price": 685,
+    "image_url": "https://example.com/image1.jpg",
+    "category": "Clothing",
+    "affiliate_link": "https://daraz.com/product1-affiliate-link"
+  },
+  {
+    "id": "2",
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes",
+    "price": 2500,
+    "image_url": "https://example.com/image2.jpg",
+    "category": "Footwear",
+    "affiliate_link": "https://daraz.com/product2-affiliate-link"
+  }
+]
