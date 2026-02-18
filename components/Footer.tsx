@@ -30,7 +30,7 @@ function Footer() {
               &copy; {new Date().getFullYear()} subodh.is-a.dev
             </p>
             <a
-              href="#home"
+              href="https://daraznp.vercel.app/"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               Back to top ↑
